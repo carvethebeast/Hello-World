@@ -1,0 +1,15 @@
+body {
+  background-color: #7ed6df;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  background-color: #22a6b3;
+  height: 100px;
+}
+
+.content {
+  background-color: #22a6b3;
+  margin-top: 20px;
+}
